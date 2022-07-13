@@ -1,6 +1,6 @@
 {
   "boards":[
-    { "id": "1325wqrqtewes-awfrw34645-qwrtgsrs", "name": "Test Board 1" },
-    { "id": "awffeafe23457-awfrw34645-q345gsrs", "name": "Test Board 2" }
+    { "boardId": "70ad66dc-6af4-4e1c-9da1-1a44cf514882", "name": "Test Board", "code": "test", "threads": null },
+    { "boardId": "70ad66dc-6af4-4a5d-9da1-1a44cf514895", "name": "Test Board 2", "code": "test2", "threads": null },
   ]
 }
